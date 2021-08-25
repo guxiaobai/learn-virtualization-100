@@ -33,6 +33,7 @@
 
 * 5.9.2 Bochs 下的程序调试入门 -  《x86汇编语言 - 从实模式到保护模式》
 * 6.12 本章程序的调试 - 《x86汇编语言 - 从实模式到保护模式》
+* 3.4 bochs 调试方法 - 《操作系统真象还原》
 * [「Coding Master」第12话 如何正确的调试汇编程序](https://www.youtube.com/watch?v=EJgdGTAixVg&list=PLLBMaJy_MOpM2xUPbjSBSib7hUUaaEGa6&index=14)
 
 
