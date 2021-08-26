@@ -25,6 +25,7 @@
 * `n`: 自动完成循环过程， 并在循环体外的下一条指令前停住 / rep、loop
 * `u`: 反汇编，第一个参数是跟在 / 后面的数字，指定反汇编出多少条指令；第二个参数用于指定一个内存地址
 * `info eflag`: 显示标志寄存器的状态, 标志名称是小写的，说明该标志位是 0; 否则改标志位的状态为 1
+* `print-stack`: 查看栈
 
 <img src="xp-1.png" />
 <img src="xp-2.png" />
@@ -33,6 +34,7 @@
 
 * 5.9.2 Bochs 下的程序调试入门 -  《x86汇编语言 - 从实模式到保护模式》
 * 6.12 本章程序的调试 - 《x86汇编语言 - 从实模式到保护模式》
+* 7.6.2 在调试过程中查看栈中内容 - 《x86汇编语言 - 从实模式到保护模式》
 * 3.4 bochs 调试方法 - 《操作系统真象还原》
 * [「Coding Master」第12话 如何正确的调试汇编程序](https://www.youtube.com/watch?v=EJgdGTAixVg&list=PLLBMaJy_MOpM2xUPbjSBSib7hUUaaEGa6&index=14)
 
