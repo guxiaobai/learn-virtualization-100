@@ -6,3 +6,4 @@
 * [Oracle VM VirtualBox](./virtualbox/)
 * [Vagrant by HashiCorp](./vagrant)
 * [Docker Engine](./docker)
+* [Bochs](./bochs)
