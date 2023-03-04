@@ -22,6 +22,37 @@ sudo apt-get install -y open-vm-tools-desktop
 * [VMware 对 open-vm-tools 的支持 (2073803)](https://kb.vmware.com/s/article/2073803)
 
 
+## macOS
+
+
+## Ref
+
+* <https://github.com/DrDonk/unlocker>
+* <https://github.com/kholia/OSX-KVM>
+
+```
+# Convert DMG to CDR or ISO with Disk Utility | OSXDaily
+hdiutil convert ./BigSur-full.dmg -format UDTO -o ./a.iso
+```
+
+
+
+
+* ~~<https://github.com/netgc/esxi-unlocker>~~
+* <https://sysin.org/blog/how-to-install-macos/>
+
+> `.vmx`
+
+```
+smc.version = "0"
+hw.model.reflectHost = "FALSE"
+hw.model = "Macmini8,1"
+board-id.reflectHost = "FALSE"
+board-id = "Mac-7BA5B2DFE22DDD8C"
+serialNumber.reflectHost = "FALSE"
+serialNumber = "C07W1059JYVX"
+ethernet0.virtualDev = "vmxnet3"
+```
 
 
 ## Ref
