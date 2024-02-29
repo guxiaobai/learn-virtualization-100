@@ -59,3 +59,4 @@ ethernet0.virtualDev = "vmxnet3"
 
 * [https://www.vmware.com/products/workstation-pro.html](https://www.vmware.com/products/workstation-pro.html)
 * [https://www.isharepc.com/36181.html](https://www.isharepc.com/36181.html)
+* [VMware Workstation Pro 文档](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)
