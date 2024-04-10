@@ -2,13 +2,14 @@
 
 |本期版本| 上期版本
 |:---:|:---:
-`Fri Jan  6 00:57:19 CST 2023` | -
+`Thu Mar 14 19:49:42 CST 2024` | -
 
 ## License
 
 Key | Version
 :---: | :---:
-`JU090-6039P-08409-8J0QH-2YR7F` | 17
+`JU090-6039P-08409-8J0QH-2YR7F` | [17.0.0](https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe)
+`ZF3R0-FHED2-M80TY-8QYGC-NPKYF` | [16.1.2](https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.2-17966106.exe)
 
 
 ## VMware Tools
@@ -60,3 +61,4 @@ ethernet0.virtualDev = "vmxnet3"
 * [https://www.vmware.com/products/workstation-pro.html](https://www.vmware.com/products/workstation-pro.html)
 * [https://www.isharepc.com/36181.html](https://www.isharepc.com/36181.html)
 * [VMware Workstation Pro 文档](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)
+* [两款 VMware 虚拟机一键去虚拟化工具](https://xiaoyi.vc/vmware-se.html)
