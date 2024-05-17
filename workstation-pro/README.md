@@ -62,3 +62,4 @@ ethernet0.virtualDev = "vmxnet3"
 * [https://www.isharepc.com/36181.html](https://www.isharepc.com/36181.html)
 * [VMware Workstation Pro 文档](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)
 * [两款 VMware 虚拟机一键去虚拟化工具](https://xiaoyi.vc/vmware-se.html)
+* [博通放大招：VM Workstation Pro免费了](https://mp.weixin.qq.com/s/B2QE4DSMPLTeGx4VtUiokw)
