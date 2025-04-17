@@ -32,6 +32,7 @@ sudo apt-get install -y open-vm-tools-desktop
 
 **Ref**
 
+* [禁用 Hyper-V 以运行虚拟化软件 - Windows Client | Microsoft Learn](https://learn.microsoft.com/zh-cn/troubleshoot/windows-client/application-management/virtualization-apps-not-work-with-hyper-v#disable-device-guard-and-credential-guard)
 * [配置 Credential Guard | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/security/identity-protection/credential-guard/configure?tabs=gpo#disable-credential-guard)
 * [VMware与windows hyper-v的兼容性设置](https://blog.csdn.net/weixin_44537885/article/details/130985414)
 * [windows10 禁用Device/Credential Guard解决方案](https://blog.csdn.net/qq_43355372/article/details/104923403)
