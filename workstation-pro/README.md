@@ -22,6 +22,20 @@ sudo apt-get install -y open-vm-tools-desktop
 * [在 Ubuntu 虚拟机中安装 VMware Tools (1022525)](https://kb.vmware.com/s/article/1022525?lang=zh_cn)
 * [VMware 对 open-vm-tools 的支持 (2073803)](https://kb.vmware.com/s/article/2073803)
 
+## vmware
+
+组策略路径|	组策略设置|	值
+---|---|---
+计算机配置\管理模板\System\Device Guard|	启用基于虚拟化的安全性|	禁用
+
+<img src="https://i-blog.csdnimg.cn/blog_migrate/49b71629642184a34510623ee4193a51.png" />
+
+**Ref**
+
+* [配置 Credential Guard | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/security/identity-protection/credential-guard/configure?tabs=gpo#disable-credential-guard)
+* [VMware与windows hyper-v的兼容性设置](https://blog.csdn.net/weixin_44537885/article/details/130985414)
+* [windows10 禁用Device/Credential Guard解决方案](https://blog.csdn.net/qq_43355372/article/details/104923403)
+* [为你的电脑关闭 Device/Credential Guard](https://answers.microsoft.com/zh-hans/windows/forum/all/%E4%B8%BA%E4%BD%A0%E7%9A%84%E7%94%B5%E8%84%91/a49978cb-cb26-44c9-ac49-54249dfba681)
 
 ## macOS
 
