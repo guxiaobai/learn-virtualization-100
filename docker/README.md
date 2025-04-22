@@ -5,6 +5,10 @@
 `Mon Jan  2 01:56:42 CST 2023` | -
 
 
+```bash
+set -Ux DOCKER_DEFAULT_PLATFORM linux/amd64
+```
+
 ## Debugger
 
 **Docker**
@@ -23,4 +27,4 @@
 
 * [Docker — 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
 * [Reference documentation](https://docs.docker.com/reference/)
-* [https://github.com/docker/compose](https://github.com/docker/compose)
+* <https://github.com/docker/compose>
